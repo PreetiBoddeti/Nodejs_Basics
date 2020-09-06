@@ -1,0 +1,7 @@
+{
+    "name" : "Development App" ,
+    "sms" : {
+        "service" : "DEV" ,
+        "database" : "MySql"
+    }
+}

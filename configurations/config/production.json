@@ -1,0 +1,6 @@
+{
+    "name" : "Production App" ,
+    "sms" : {
+        "service" : "PROD"
+    }
+}
